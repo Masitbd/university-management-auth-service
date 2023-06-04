@@ -1,15 +1,38 @@
-import express, { Request, Response } from 'express'
+import express, { Application } from 'express'
 import cors from 'cors'
-const app = express()
 
-//perser
+import globalErrorHandler from './app/middleware/globalErrorHandler'
+import { UserRoutes } from './app/modules/users/user.route'
+
+const app: Application = express()
+
+app.use(cors())
+
+//parser
 app.use(express.json())
-app.use(express.urlencoded({extended:true}))
+app.use(express.urlencoded({ extended: true }))
 
-app.use(cors)
-app.get('/', (req:Request, res:Response) => {
+// Application routes
+
+app.use('/api/v1/users/', UserRoutes)
+
+//Testing
+//app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+/* await usersServices.createUser({
+    id: '999',
+    password: '1234',
+    role: 'admin',SS
+  }) */
+/* next('ora baba error')
+
   res.send('Hello World!')
-})
+ */
+//throw new ApiError(400, 'ora bana')
+// global error handling
+// })
 
+app.use(globalErrorHandler)
 
 export default app
+
+// AM0421
