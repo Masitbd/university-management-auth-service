@@ -44,6 +44,11 @@
             "date": 1685914001164,
             "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-04-23-errors.log",
             "hash": "53e185156abbba3ec14ba0e9a4440458bb8cc09d22ea747cb7c13fa9db616be2"
+        },
+        {
+            "date": 1686037261439,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-06-09-errors.log",
+            "hash": "2fafa5d7737a73efa1dbef5d797a0d537aa0e8fb2f37971297c9df1a73c991bb"
         }
     ],
     "hashType": "sha256"

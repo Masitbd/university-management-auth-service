@@ -27,8 +27,13 @@ app.use('/api/v1/users/', UserRoutes)
 
   res.send('Hello World!')
  */
-//throw new ApiError(400, 'ora bana')
+// throw new ApiError(400, 'ora bana')
 // global error handling
+// })
+
+//Testing
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+// throw new Error('Testing Error logger')
 // })
 
 app.use(globalErrorHandler)
