@@ -14,6 +14,16 @@
             "date": 1686042406921,
             "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-11-errors.log",
             "hash": "1ec3ba059bef3b3473c7f4cc925b3706fd477c9ee4b078a4842306d7baf9b2db"
+        },
+        {
+            "date": 1686047479962,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-12-errors.log",
+            "hash": "fb274987858f4b7d820a30eeb192f5e4f1981a7c1a404fa15349462b2ff925c0"
+        },
+        {
+            "date": 1686054004022,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-14-errors.log",
+            "hash": "85a63f8f50b54861598b6ae340087f3dc1184d55b874383469b3567280ae2ae1"
         }
     ],
     "hashType": "sha256"
