@@ -34,6 +34,21 @@
             "date": 1686143511969,
             "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-15-errors.log",
             "hash": "8175bfb7f2e5b3db299e2f49b9314195248b3eeabca165bde70ca334026adac4"
+        },
+        {
+            "date": 1686148304425,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-16-errors.log",
+            "hash": "1a0d3dd670f1f3ba1ebc2d47cd8d6d316fde2423c99b4aa86f8d94df73c1441d"
+        },
+        {
+            "date": 1686160216369,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-19-errors.log",
+            "hash": "95b73c8ebb4ad84bbb58d27fc1ccec6735abeb77943f434a5045c2ccd14a9e50"
+        },
+        {
+            "date": 1686161681102,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-20-errors.log",
+            "hash": "f9d93c0cb72b8cdcde8cbd839764e3450d361122ba42806f43d026412cd96fe7"
         }
     ],
     "hashType": "sha256"

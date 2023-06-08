@@ -1,16 +1,16 @@
-import { RequestHandler } from 'express'
-import { UserService } from './user.services'
+import { RequestHandler } from 'express';
+import { UserService } from './user.services';
 
 // const createUser = async (req: Request, res: Response, next: NextFunction) => {
 const createUser: RequestHandler = async (req, res, next) => {
   try {
-    const { user } = req.body
-    const result = await UserService.createUser(user)
+    const { user } = req.body;
+    const result = await UserService.createUser(user);
     res.status(200).json({
       success: true,
       message: 'User created successfully',
       data: result,
-    })
+    });
   } catch (err) {
     // res.status(400).json({
     // error: err,
@@ -18,10 +18,10 @@ const createUser: RequestHandler = async (req, res, next) => {
       message: 'Fail to create user ', */
     // })
 
-    next(err)
+    next(err);
   }
-}
+};
 
 export const UserController = {
   createUser,
-}
+};

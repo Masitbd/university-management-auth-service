@@ -79,6 +79,21 @@
             "date": 1686142925893,
             "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-07-15-success.log",
             "hash": "4ebfe32a53e31e9b0e5f4808afd248e4d5afe68933d94aedd33f068f92b80343"
+        },
+        {
+            "date": 1686148304421,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-07-16-success.log",
+            "hash": "e785c3253a285c452a1159b9d7928b0a6ff89c22daf800965b017cc90149a220"
+        },
+        {
+            "date": 1686160216364,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-07-19-success.log",
+            "hash": "2c2eb04f18d28a320ff3a5d2d33c883c03b45d994baf6c108d666aa52cd779ea"
+        },
+        {
+            "date": 1686161681098,
+            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/successes/phu-2023-06-07-20-success.log",
+            "hash": "373df3f6d4fdf012aa235338ab57a78101f04de8568500bbf3a48f24803b6212"
         }
     ],
     "hashType": "sha256"
