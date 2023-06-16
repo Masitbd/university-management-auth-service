@@ -1,0 +1,18 @@
+{
+  message: 'database is connect successfully',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-16T07:28:25.385Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-16T07:28:25.394Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-16T07:48:17.252Z'
+}

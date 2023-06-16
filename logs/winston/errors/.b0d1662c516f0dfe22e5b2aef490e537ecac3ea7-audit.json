@@ -1,55 +1,75 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/.b0d1662c516f0dfe22e5b2aef490e537ecac3ea7-audit.json",
+  "files": [
+    {
+      "date": 1686039328127,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-10-errors.log",
+      "hash": "bcfd8d17cd7c502c9d25ade3059854b5283a88591bf2fc029e7a736dac9c7068"
     },
-    "auditLog": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/.b0d1662c516f0dfe22e5b2aef490e537ecac3ea7-audit.json",
-    "files": [
-        {
-            "date": 1686039328127,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-10-errors.log",
-            "hash": "bcfd8d17cd7c502c9d25ade3059854b5283a88591bf2fc029e7a736dac9c7068"
-        },
-        {
-            "date": 1686042406921,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-11-errors.log",
-            "hash": "1ec3ba059bef3b3473c7f4cc925b3706fd477c9ee4b078a4842306d7baf9b2db"
-        },
-        {
-            "date": 1686047479962,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-12-errors.log",
-            "hash": "fb274987858f4b7d820a30eeb192f5e4f1981a7c1a404fa15349462b2ff925c0"
-        },
-        {
-            "date": 1686054004022,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-14-errors.log",
-            "hash": "85a63f8f50b54861598b6ae340087f3dc1184d55b874383469b3567280ae2ae1"
-        },
-        {
-            "date": 1686125606311,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-10-errors.log",
-            "hash": "23f982cf9287353174350bbed2ce140241b375d2bcb65226fa137702f873d7e1"
-        },
-        {
-            "date": 1686143511969,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-15-errors.log",
-            "hash": "8175bfb7f2e5b3db299e2f49b9314195248b3eeabca165bde70ca334026adac4"
-        },
-        {
-            "date": 1686148304425,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-16-errors.log",
-            "hash": "1a0d3dd670f1f3ba1ebc2d47cd8d6d316fde2423c99b4aa86f8d94df73c1441d"
-        },
-        {
-            "date": 1686160216369,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-19-errors.log",
-            "hash": "95b73c8ebb4ad84bbb58d27fc1ccec6735abeb77943f434a5045c2ccd14a9e50"
-        },
-        {
-            "date": 1686161681102,
-            "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-20-errors.log",
-            "hash": "f9d93c0cb72b8cdcde8cbd839764e3450d361122ba42806f43d026412cd96fe7"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686042406921,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-11-errors.log",
+      "hash": "1ec3ba059bef3b3473c7f4cc925b3706fd477c9ee4b078a4842306d7baf9b2db"
+    },
+    {
+      "date": 1686047479962,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-12-errors.log",
+      "hash": "fb274987858f4b7d820a30eeb192f5e4f1981a7c1a404fa15349462b2ff925c0"
+    },
+    {
+      "date": 1686054004022,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-06-14-errors.log",
+      "hash": "85a63f8f50b54861598b6ae340087f3dc1184d55b874383469b3567280ae2ae1"
+    },
+    {
+      "date": 1686125606311,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-10-errors.log",
+      "hash": "23f982cf9287353174350bbed2ce140241b375d2bcb65226fa137702f873d7e1"
+    },
+    {
+      "date": 1686143511969,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-15-errors.log",
+      "hash": "8175bfb7f2e5b3db299e2f49b9314195248b3eeabca165bde70ca334026adac4"
+    },
+    {
+      "date": 1686148304425,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-16-errors.log",
+      "hash": "1a0d3dd670f1f3ba1ebc2d47cd8d6d316fde2423c99b4aa86f8d94df73c1441d"
+    },
+    {
+      "date": 1686160216369,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-19-errors.log",
+      "hash": "95b73c8ebb4ad84bbb58d27fc1ccec6735abeb77943f434a5045c2ccd14a9e50"
+    },
+    {
+      "date": 1686161681102,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-07-20-errors.log",
+      "hash": "f9d93c0cb72b8cdcde8cbd839764e3450d361122ba42806f43d026412cd96fe7"
+    },
+    {
+      "date": 1686247593592,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-08-20-errors.log",
+      "hash": "bef374445a3ed3f3011c75826a3898e0c8494dd26111ecc915989a17b4caf6f4"
+    },
+    {
+      "date": 1686900504397,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-16-09-errors.log",
+      "hash": "17127b0c2e6b566c14697c560d12046ec13bb9c2d6248f14e56e3d94b8435693"
+    },
+    {
+      "date": 1686909595293,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-16-11-errors.log",
+      "hash": "af30384e41b51023fe0574df8b00c5b71f7e35c3005d652d0abd742ca2c3953c"
+    },
+    {
+      "date": 1686914068922,
+      "name": "/home/sarker24/next_level_pheho/university-management-auth-service/logs/winston/errors/phu-2023-06-16-13-errors.log",
+      "hash": "3e02f4b37a614e7323a4b96368e791c1480a7e29a8b37affc8677b0cf20c2b09"
+    }
+  ],
+  "hashType": "sha256"
 }
